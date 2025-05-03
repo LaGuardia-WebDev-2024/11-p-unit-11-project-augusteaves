@@ -1,5 +1,5 @@
 body {
-  background-color: aliceblue;
+  background-color: rgb(244, 244, 147);
   text-align: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -14,13 +14,14 @@ html{
 }
 
 #myCanvas {
+  background-image: url(https://media.istockphoto.com/id/1176602671/photo/falling-autumn-leaves-before-sunset.jpg?s=612x612&w=0&k=20&c=q5syXIvFQOw1VQjXKZifqNkM44pkv7Gu8TG52TG7e7s=);
   border: 1px solid black;
 }
 
 .container{
   display: flex;
   flex-wrap: wrap;
-  background-color: white;
+  background-color: rgb(96, 60, 20);
   justify-content: space-around;
   align-items: flex-start;
   padding-bottom: 20px;
@@ -34,7 +35,7 @@ html{
 }
 
 h2{
-  color: black;
+  color: rgb(255,255,255);
 /*   font-size: 10px; */
 }
 
